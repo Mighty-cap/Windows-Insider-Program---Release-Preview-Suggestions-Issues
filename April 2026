@@ -1,0 +1,7 @@
+What's Hurting Performance / Effectiveness
+- The latest Insider update got stuck downloading at 99% on my machine for weeks, and after a different build installed I lost VPN functionality entirely with no warning. Near-release builds shouldn't be doing this.
+- The March 26 update had to be pulled after release due to an installation bug — for a channel supposed to be stable enough for commercial customers, that's a bad look.
+
+Program Structure Issues
+- Gradual rollouts on Release Preview mean announced features just don't show up on my end. I've read the blog post, taken the update, and still nothing. That needs to change.
+- My channel silently switched from Release Preview to Beta with no prompt, and the only fix I found was turning off the update toggle entirely. I shouldn't have to audit my own channel status just to know what build I'm on.
